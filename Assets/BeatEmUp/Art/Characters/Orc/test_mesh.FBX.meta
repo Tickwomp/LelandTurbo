@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 30f656c39c4834d45a7e34a44a760507
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: axe
+    100002: axe_controller
+    100004: Base HumanHead
+    100006: Base HumanLCalf
+    100008: Base HumanLCollarbone
+    100010: Base HumanLDigit11
+    100012: Base HumanLDigit11 1
+    100014: Base HumanLDigit12
+    100016: Base HumanLDigit13
+    100018: Base HumanLDigit21
+    100020: Base HumanLDigit22
+    100022: Base HumanLDigit23
+    100024: Base HumanLFoot
+    100026: Base HumanLForearm
+    100028: Base HumanLPalm
+    100030: Base HumanLThigh
+    100032: Base HumanLUpperarm
+    100034: Base HumanNeck1
+    100036: Base HumanNeck2
+    100038: Base HumanPelvis
+    100040: Base HumanRCalf
+    100042: Base HumanRCollarbone
+    100044: Base HumanRDigit11
+    100046: Base HumanRDigit11 1
+    100048: Base HumanRDigit12
+    100050: Base HumanRDigit13
+    100052: Base HumanRDigit21
+    100054: Base HumanRDigit22
+    100056: Base HumanRDigit23
+    100058: Base HumanRFoot
+    100060: Base HumanRForearm
+    100062: Base HumanRibcage
+    100064: Base HumanRPalm
+    100066: Base HumanRThigh
+    100068: Base HumanRUpperarm
+    100070: Base HumanSpine1
+    100072: Base HumanSpine2
+    100074: Base HumanSpine3
+    100076: L_pauldron_control
+    100078: orc_warrior
+    100080: R_pauldron_control
+    100082: shield
+    100084: shield_controller
+    100086: //RootNode
+    400000: axe
+    400002: axe_controller
+    400004: Base HumanHead
+    400006: Base HumanLCalf
+    400008: Base HumanLCollarbone
+    400010: Base HumanLDigit11
+    400012: Base HumanLDigit11 1
+    400014: Base HumanLDigit12
+    400016: Base HumanLDigit13
+    400018: Base HumanLDigit21
+    400020: Base HumanLDigit22
+    400022: Base HumanLDigit23
+    400024: Base HumanLFoot
+    400026: Base HumanLForearm
+    400028: Base HumanLPalm
+    400030: Base HumanLThigh
+    400032: Base HumanLUpperarm
+    400034: Base HumanNeck1
+    400036: Base HumanNeck2
+    400038: Base HumanPelvis
+    400040: Base HumanRCalf
+    400042: Base HumanRCollarbone
+    400044: Base HumanRDigit11
+    400046: Base HumanRDigit11 1
+    400048: Base HumanRDigit12
+    400050: Base HumanRDigit13
+    400052: Base HumanRDigit21
+    400054: Base HumanRDigit22
+    400056: Base HumanRDigit23
+    400058: Base HumanRFoot
+    400060: Base HumanRForearm
+    400062: Base HumanRibcage
+    400064: Base HumanRPalm
+    400066: Base HumanRThigh
+    400068: Base HumanRUpperarm
+    400070: Base HumanSpine1
+    400072: Base HumanSpine2
+    400074: Base HumanSpine3
+    400076: L_pauldron_control
+    400078: orc_warrior
+    400080: R_pauldron_control
+    400082: shield
+    400084: shield_controller
+    400086: //RootNode
+    2300000: axe
+    2300002: shield
+    3300000: axe
+    3300002: shield
+    4300000: orc_warrior
+    4300002: shield
+    4300004: axe
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: orc_warrior
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
